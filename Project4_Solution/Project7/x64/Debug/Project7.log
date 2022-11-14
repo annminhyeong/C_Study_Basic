@@ -1,0 +1,4 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project4_Solution\Project7\Project.c(35,17): warning C4474: 'printf' : too many arguments passed for format string
+F:\Programming\C\Study\StudyC\Project4_Solution\Project7\Project.c(35,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Project7.vcxproj -> F:\Programming\C\Study\StudyC\Project4_Solution\x64\Debug\Project7.exe

@@ -1,0 +1,9 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project3_Solution\Project9\Project.c(7,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+F:\Programming\C\Study\StudyC\Project3_Solution\Project9\Project.c(7,9): message : consider using '%zu' in the format string
+F:\Programming\C\Study\StudyC\Project3_Solution\Project9\Project.c(8,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+F:\Programming\C\Study\StudyC\Project3_Solution\Project9\Project.c(8,9): message : consider using '%zu' in the format string
+F:\Programming\C\Study\StudyC\Project3_Solution\Project9\Project.c(9,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'size_t'
+F:\Programming\C\Study\StudyC\Project3_Solution\Project9\Project.c(9,9): message : consider using '%zu' in the format string
+F:\Programming\C\Study\StudyC\Project3_Solution\Project9\Project.c(14,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project9.vcxproj -> F:\Programming\C\Study\StudyC\Project3_Solution\x64\Debug\Project9.exe

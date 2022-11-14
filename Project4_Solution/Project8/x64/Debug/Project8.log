@@ -1,0 +1,4 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project4_Solution\Project8\Project.c(29,34): warning C4307: '+': signed integral constant overflow
+F:\Programming\C\Study\StudyC\Project4_Solution\Project8\Project.c(29,47): warning C4307: '+': signed integral constant overflow
+  Project8.vcxproj -> F:\Programming\C\Study\StudyC\Project4_Solution\x64\Debug\Project8.exe

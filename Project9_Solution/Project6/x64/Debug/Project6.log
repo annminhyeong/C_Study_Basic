@@ -1,0 +1,4 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project9_Solution\Project6\Project.c(15,61): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+F:\Programming\C\Study\StudyC\Project9_Solution\Project6\Project.c(20,61): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
+  Project6.vcxproj -> F:\Programming\C\Study\StudyC\Project9_Solution\x64\Debug\Project6.exe

@@ -1,0 +1,3 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project5_Solution\Project8\Project.c(15,7): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  Project8.vcxproj -> F:\Programming\C\Study\StudyC\Project5_Solution\x64\Debug\Project8.exe

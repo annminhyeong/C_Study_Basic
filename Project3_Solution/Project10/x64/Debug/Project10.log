@@ -1,0 +1,5 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project3_Solution\Project10\Project.c(130,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Programming\C\Study\StudyC\Project3_Solution\Project10\Project.c(137,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Programming\C\Study\StudyC\Project3_Solution\Project10\Project.c(137): warning C4723: potential divide by 0
+  Project10.vcxproj -> F:\Programming\C\Study\StudyC\Project3_Solution\x64\Debug\Project10.exe

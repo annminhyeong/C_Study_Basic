@@ -1,0 +1,3 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project9_Solution\Project1\Project.c(20,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> F:\Programming\C\Study\StudyC\Project9_Solution\x64\Debug\Project1.exe

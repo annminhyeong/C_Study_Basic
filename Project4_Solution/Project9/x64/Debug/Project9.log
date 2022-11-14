@@ -1,0 +1,9 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project4_Solution\Project9\Project.c(13,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+F:\Programming\C\Study\StudyC\Project4_Solution\Project9\Project.c(13,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+F:\Programming\C\Study\StudyC\Project4_Solution\Project9\Project.c(14,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type 'double'
+F:\Programming\C\Study\StudyC\Project4_Solution\Project9\Project.c(14,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+F:\Programming\C\Study\StudyC\Project4_Solution\Project9\Project.c(15,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'double'
+F:\Programming\C\Study\StudyC\Project4_Solution\Project9\Project.c(16,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'double'
+F:\Programming\C\Study\StudyC\Project4_Solution\Project9\Project.c(6,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Project9.vcxproj -> F:\Programming\C\Study\StudyC\Project4_Solution\x64\Debug\Project9.exe

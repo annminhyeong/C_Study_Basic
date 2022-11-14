@@ -1,0 +1,8 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project5_Solution\Project7\Project.c(22,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Programming\C\Study\StudyC\Project5_Solution\Project7\Project.c(27,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\Programming\C\Study\StudyC\Project5_Solution\Project7\Project.c(34,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\Programming\C\Study\StudyC\Project5_Solution\Project7\Project.c(38,8): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\Programming\C\Study\StudyC\Project5_Solution\Project7\Project.c(41,6): warning C4305: '=': truncation from 'int' to 'char'
+F:\Programming\C\Study\StudyC\Project5_Solution\Project7\Project.c(44,6): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  Project7.vcxproj -> F:\Programming\C\Study\StudyC\Project5_Solution\x64\Debug\Project7.exe

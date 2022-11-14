@@ -1,0 +1,7 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project3_Solution\Project7\Project.c(9,15): warning C4101: 'i8': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project3_Solution\Project7\Project.c(11,11): warning C4101: 'imax': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project3_Solution\Project7\Project.c(12,12): warning C4101: 'uimax': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project3_Solution\Project7\Project.c(10,14): warning C4101: 'f8': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project3_Solution\Project7\Project.c(7,6): warning C4101: 'i': unreferenced local variable
+  Project7.vcxproj -> F:\Programming\C\Study\StudyC\Project3_Solution\x64\Debug\Project7.exe
