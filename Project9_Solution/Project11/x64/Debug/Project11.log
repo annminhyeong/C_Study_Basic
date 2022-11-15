@@ -1,0 +1,3 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project9_Solution\Project11\Project.c(35,11): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+  Project11.vcxproj -> F:\Programming\C\Study\StudyC\Project9_Solution\x64\Debug\Project11.exe
