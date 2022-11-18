@@ -1,2 +1,7 @@
 ﻿  Project.c
+F:\Programming\C\Study\StudyC\Project10_Solution\Project1\Project.c(75,6): warning C4101: 'arr1': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project10_Solution\Project1\Project.c(82,8): warning C4101: 'arr8': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project10_Solution\Project1\Project.c(76,9): warning C4101: 'arr2': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project10_Solution\Project1\Project.c(78,8): warning C4101: 'arr4': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project10_Solution\Project1\Project.c(77,8): warning C4101: 'arr3': unreferenced local variable
   Project1.vcxproj -> F:\Programming\C\Study\StudyC\Project10_Solution\x64\Debug\Project1.exe

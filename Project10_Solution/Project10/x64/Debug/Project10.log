@@ -1,0 +1,3 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project10_Solution\Project10\Project.c(35,15): warning C4090: 'function': different 'const' qualifiers
+  Project10.vcxproj -> F:\Programming\C\Study\StudyC\Project10_Solution\x64\Debug\Project10.exe
