@@ -1,0 +1,10 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(69,10): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(69,10): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(69,10): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(69,10): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(78,10): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(78,10): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(78,10): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project11\Project.c(78,10): message : consider using '%I64u' in the format string
+  Project11.vcxproj -> F:\Programming\C\Study\StudyC\Project10_Solution\x64\Debug\Project11.exe

@@ -1,0 +1,50 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(69,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(70,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(71,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(80,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(81,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): message : consider using '%I64u' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): message : consider using '%llu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): message : consider using '%Iu' in the format string
+F:\Programming\C\Study\StudyC\Project10_Solution\Project12\Project.c(82,9): message : consider using '%I64u' in the format string
+  Project12.vcxproj -> F:\Programming\C\Study\StudyC\Project10_Solution\x64\Debug\Project12.exe
