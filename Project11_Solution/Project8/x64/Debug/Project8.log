@@ -1,4 +1,2 @@
 ﻿  Project.c
-F:\Programming\C\Study\StudyC\Project11_Solution\Project8\Project.c(25,11): warning C4047: '=': 'char **' differs in levels of indirection from 'char *'
-F:\Programming\C\Study\StudyC\Project11_Solution\Project8\Project.c(23,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char **'
   Project8.vcxproj -> F:\Programming\C\Study\StudyC\Project11_Solution\x64\Debug\Project8.exe
