@@ -32,9 +32,8 @@ void static_counter_caller()
 	static_count();
 }
 
-//warning : 파라미터는 함수가 여러번 호출될 때 새로운 메모리 공간에 값을 저장하는데
-//static 변수는 프로그램 내내 메모리가 유지되면서 한번 생성되면 
-// 그 변수를 scope 내에서 프로그램 실행 내내 재사용할 수 있는데 여러번 static 변수들을 재정의하므로 warning 발생
+//warning : static 변수는 프로그램 내내 메모리가 유지되면서 한번 생성되면 그 변수를 scope 내에서
+//프로그램 실행 내내 재사용할 수 있는데 함수가 호출될 때 마다 여러번 static 변수를 생성하므로 static 변수 쓰는 의미가 없음
 void func(static int i)
 {
 	
