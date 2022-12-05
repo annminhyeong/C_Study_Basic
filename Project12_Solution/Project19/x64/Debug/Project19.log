@@ -1,0 +1,3 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project12_Solution\Project19\Project.c(17,50): warning C4113: 'DWORD (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
+  Project19.vcxproj -> F:\Programming\C\Study\StudyC\Project12_Solution\x64\Debug\Project19.exe

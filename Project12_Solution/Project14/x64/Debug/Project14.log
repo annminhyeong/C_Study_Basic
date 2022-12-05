@@ -1,0 +1,4 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project12_Solution\Project14\Project.c(10,6): warning C4101: 'arr': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project12_Solution\Project14\Project.c(7,8): warning C4101: 'x': unreferenced local variable
+  Project14.vcxproj -> F:\Programming\C\Study\StudyC\Project12_Solution\x64\Debug\Project14.exe
