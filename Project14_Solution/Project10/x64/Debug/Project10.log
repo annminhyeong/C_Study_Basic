@@ -1,0 +1,4 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project14_Solution\Project10\Project.c(32,6): warning C4101: 'flag': unreferenced local variable
+F:\Programming\C\Study\StudyC\Project14_Solution\Project10\Project.c(49,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project10.vcxproj -> F:\Programming\C\Study\StudyC\Project14_Solution\x64\Debug\Project10.exe
