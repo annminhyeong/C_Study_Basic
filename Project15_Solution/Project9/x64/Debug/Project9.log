@@ -1,0 +1,3 @@
+﻿  Project.c
+F:\Programming\C\Study\StudyC\Project15_Solution\Project9\Project.c(29,2): warning C4013: 'memset' undefined; assuming extern returning int
+  Project9.vcxproj -> F:\Programming\C\Study\StudyC\Project15_Solution\x64\Debug\Project9.exe
