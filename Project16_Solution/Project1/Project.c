@@ -18,7 +18,7 @@ int main()
 	puts("안녕하세요? 한글을 사랑합니다.\n");
 	int arr[3] = { 1, 2, 3 };
 
-	printf("arr??(0??) == %d\n", arr??(0??));
+	//printf("arr??(0??) == %d\n", arr??(0??));
 	//printf("arr[0] == %d\n", arr[0]);
 
 	/*

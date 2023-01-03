@@ -1,3 +1,4 @@
 ﻿  Project.c
-F:\Programming\C\Study\StudyC\Project16_Solution\Project13\Project.c(19,9): error C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+F:\Programming\C\Study\StudyC\Project16_Solution\Project13\Project.c(19,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
 F:\Programming\C\Study\StudyC\Project16_Solution\Project13\Project.c(19,9): message : consider using '%zd' in the format string
+  Project13.vcxproj -> F:\Programming\C\Study\StudyC\Project16_Solution\x64\Debug\Project13.exe
